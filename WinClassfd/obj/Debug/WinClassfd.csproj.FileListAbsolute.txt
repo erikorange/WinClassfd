@@ -1,0 +1,22 @@
+c:\users\erik\documents\visual studio 2013\WinClassfd\WinClassfd\bin\Debug\WinClassfd.exe.config
+c:\users\erik\documents\visual studio 2013\WinClassfd\WinClassfd\bin\Debug\WinClassfd.exe
+c:\users\erik\documents\visual studio 2013\WinClassfd\WinClassfd\bin\Debug\WinClassfd.pdb
+c:\users\erik\documents\visual studio 2013\WinClassfd\WinClassfd\obj\Debug\WinClassfd.csprojResolveAssemblyReference.cache
+c:\users\erik\documents\visual studio 2013\WinClassfd\WinClassfd\obj\Debug\WinClassfd.Properties.Resources.resources
+c:\users\erik\documents\visual studio 2013\WinClassfd\WinClassfd\obj\Debug\WinClassfd.csproj.GenerateResource.Cache
+c:\users\erik\documents\visual studio 2013\WinClassfd\WinClassfd\obj\Debug\WinClassfd.exe
+c:\users\erik\documents\visual studio 2013\WinClassfd\WinClassfd\obj\Debug\WinClassfd.pdb
+C:\Users\Erik\Documents\Visual Studio 2013\WinClassfd\WinClassfd\obj\Debug\WinClassfd.frmMain.resources
+C:\Users\Erik\Source\Repos\WinClassfd\WinClassfd\bin\Debug\WinClassfd.exe.config
+C:\Users\Erik\Source\Repos\WinClassfd\WinClassfd\obj\Debug\WinClassfd.exe
+C:\Users\Erik\Source\Repos\WinClassfd\WinClassfd\obj\Debug\WinClassfd.pdb
+C:\Users\Erik\Source\WinClassfd\WinClassfd\bin\Debug\WinClassfd.exe.config
+C:\Users\Erik\Source\WinClassfd\WinClassfd\obj\Debug\WinClassfd.exe
+C:\Users\Erik\Source\WinClassfd\WinClassfd\obj\Debug\WinClassfd.pdb
+C:\Users\Erik\Source\WinClassfd\WinClassfd\bin\Debug\WinClassfd.exe
+C:\Users\Erik\Source\WinClassfd\WinClassfd\bin\Debug\WinClassfd.pdb
+C:\Users\Erik\Source\WinClassfd\WinClassfd\obj\Debug\WinClassfd.csprojResolveAssemblyReference.cache
+C:\Users\Erik\Source\WinClassfd\WinClassfd\obj\Debug\WinClassfd.frmMain.resources
+C:\Users\Erik\Source\WinClassfd\WinClassfd\obj\Debug\WinClassfd.Properties.Resources.resources
+C:\Users\Erik\Source\WinClassfd\WinClassfd\obj\Debug\WinClassfd.csproj.GenerateResource.Cache
+C:\Users\Erik\Source\WinClassfd\WinClassfd\obj\Debug\WinClassfd.csproj.CoreCompileInputs.cache
